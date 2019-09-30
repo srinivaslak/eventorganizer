@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/Admin-home.jsp=UTF-8
+encoding//WebContent/Event-Bookings.jsp=UTF-8
+encoding//WebContent/Host-Viewevents.jsp=UTF-8
+encoding//WebContent/Host-bookingstatus.jsp=UTF-8
+encoding//WebContent/Host-eventcreation.jsp=UTF-8
+encoding//WebContent/Host-home.jsp=UTF-8
+encoding//WebContent/User-Eventbookings.jsp=UTF-8
+encoding//WebContent/User-Viewevents.jsp=UTF-8
+encoding//WebContent/User-bookingstatus.jsp=UTF-8
+encoding//WebContent/User-home.jsp=UTF-8
+encoding//WebContent/View-events.jsp=UTF-8
+encoding//WebContent/View-host.jsp=UTF-8
+encoding//WebContent/View-users.jsp=UTF-8
